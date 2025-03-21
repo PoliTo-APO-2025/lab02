@@ -31,7 +31,7 @@ Stampare:
 
 - l'elenco delle città direttamente connesse a Los Angeles.
 - il nome e quanti km servono per raggiungere la città con l'offerta migliore in assoluto.
-- la città con il peggior rapporto offerta/ore percorrenza, escludendo Los Angeles.
+- la città con il peggior rapporto offerta/distanza, escludendo Los Angeles.
 - Supponendo di avere ghiaccio per 4000 km, stampare il nome della città raggiungibile con la migliore offerta.
 
 
